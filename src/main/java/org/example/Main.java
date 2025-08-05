@@ -5,5 +5,6 @@ package org.example;
 public class Main {
     public static void main(String[] args) {
       Phone phone = new Phone("Apple", "iPhone 12");
+        Phone phone2 = new Phone("Apple", "iPhone 12");
     }
 }
